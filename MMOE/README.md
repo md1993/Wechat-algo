@@ -1,2 +1,0 @@
-# WeChat BigData Challenge Competition
-
